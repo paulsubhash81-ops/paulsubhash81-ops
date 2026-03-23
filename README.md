@@ -1,4 +1,4 @@
-# Hi there, I'm @paulsubhash81-ops 👋
+# Hi there, I'm Subhash👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast dedicated to building impactful solutions and contributing to the open-source community.
 
@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast ded
 ## 💻 Tech Stack
 
 **Languages:** JavaScript, Python, TypeScript, Java  
-**Frontend:** React, Vue.js, HTML5, CSS3  
+**Frontend:** React, Next.js, HTML5, CSS3  
 **Backend:** Node.js, Express, Django  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+**Tools & Platforms:** Git ,GitHub Actions, Postman, VScode.
 
 ## 🤝 Let's Connect
 
