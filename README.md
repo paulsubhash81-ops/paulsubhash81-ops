@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast ded
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Tools & Platforms:** Git ,GitHub Actions, Postman, VScode.
 
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulsubhash/)
-- 📧 Email: paulsubhash81@gmail.com
-
 ## 📈 What I'm Currently Exploring
 
 - Advanced system design patterns
